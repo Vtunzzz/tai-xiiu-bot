@@ -8,9 +8,9 @@ import time
 app = Flask(__name__)
 
 current_session = {
-    "gameId": 2718911,
-    "dice": [3, 4, 2],
-    "total": 9,
+    "gameId": 2719970,
+    "dice": [3, 4, 1],
+    "total": 8,
     "result": "xỉu",
     "timestamp": datetime.now().isoformat()
 }
